@@ -1,0 +1,23 @@
+TYPE OF PROBLEM
+A) diagonal matrix
+B) non diagonal
+C) non linear system
+
+
+TYPE OF MODEL REDUCTION
+I) diagonal projection
+II) non-diagonal projection
+III) unit projection (= to g)
+
+
+EFFECTS OF DIFFERENT TERMS
+a) with only projection and no memory no noise
+b) with memory and no noise
+c)with memory and noise
+
+
+
+
+FIGURES:
+- Figure 1 in the report, john.fig: AIc with random matrix
+
